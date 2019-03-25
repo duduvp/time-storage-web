@@ -1,0 +1,22 @@
+SMAP
+teste_jsp.java
+JSP
+*S JSP
+*F
++ 0 teste.jsp
+documento/teste.jsp
++ 1 cabecalho.jsp
+documento/../cabecalho.jsp
++ 2 alertas.jsp
+documento/../alertas.jsp
+*L
+5,7:50
+5#1,41:57
+5#2,19:98
+24:117,3
+25,20:120
+45:140,3
+46,11:143
+45#1,4:153
+11#0,51:156
+*E
